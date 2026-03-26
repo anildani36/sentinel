@@ -1,0 +1,8 @@
+cdk/
+cdk.out/
+.github/
+python/
+.gitignore
+cdk.context.json
+cdk.json
+test_main.http
